@@ -12,4 +12,4 @@ Those who claim to have seen smile.jpg often joke that they were far too busy to
 This is, of course, not a description given immediately after viewing the picture, but rather a recollection of the victims, who claim to have seen the picture endlessly repeated in their mind's eye during the time they are, in reality, having epileptic fits. These fits are reported to continue interminably, often while the victims sleep, resulting in very vivid and disturbing nightmares. These may be treated with medication, though in some cases it is more effective than others.
 
 
-[![Smile.jpg](https://i.ibb.co/qsDtp0K/New-Project.png)]
+![Smile.jpg](https://i.ibb.co/qsDtp0K/New-Project.png)
